@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1"
+    >
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Bienvenue wilder !"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:background="#ACE075"
+        android:visibility="gone"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorBlue"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="top"
+        android:weightSum="1">
+
+        <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/list_chats"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:id="@+id/deco"
+            android:layout_width="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_height="10dp"
+            android:text="Déconnexion"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="right"
+            android:id="@+id/create_chat"
+            android:layout_width="40dp"
+            android:background="@drawable/btnenvoi"
+            android:layout_height="40dp"
+            android:layout_marginRight="5dp"
+            android:textColor="@android:color/white"
+            android:text="+"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_bedc390a88ec2511496d97504dfdd3ad24ca58e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_350b551e10bcc11db49daf249b93707bc81b668d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_79bb1c91c9e43b6d4e1d06134ecdb7f244b061e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_4f10b58eacb505f3ba2ff9a0b9b38c47a154f82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_6e1d449569152f7d76dc27d3d8d2cb9d37e560b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_9f1ec398cc27c3cbd4586c2e254b8fcf5c3fea63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_653cbc23225645d4833dfbbf144f1d6f16d0a019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_6da5a457c9fadc1aa65be2a73d5eb06fead049a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.6.0_b93c1c699cd03bc9916dc005673af5893b3db471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_ed028d3283910ede88d0061b8e0818689a5ca87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3e7cab9fa96b7db41f5b5dca9c9179dd05686b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_4ee9ed4b268c486d015ab5785a2995744004072a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_61b00b86d86fb8e8d353952dd3d5943aaada06c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_19db9056b7b10067d039622d332f999913de403a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_0f637943b7717f50440bfdaa462575d37375f35b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_8ab95bd52947af50d7799d5d5589d8776fa59a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-storage-0.6.0_cf7aae1cf6b5a024f0858d8e57b0c3aec6c24ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.4.0_5fdd4f16507060e2aa29892a47d20934d48d6bad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_29d8dc5e92128a1a0b662e5cc7a4ec0a313d5e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_4c57125f26acb5dfa82ab2340a716a59d8cbe231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_2b86d14dbb78af0369d96558932207a1cfbc30a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.14.1_e8fc0215d9106c03aec5e8b036d4053a94535248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_5516043e650470c1a03839ef5c1f67ee73f918df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_510187413d7de9a9d857ada02a199c9cb8dffcba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_b807ff0ef7c528a7909f2284d52334639e781a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_23c88734fbbb5ab4cd9b254f37dd7c322eda96e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_be6e2f5ac9f1dfb1fb8d6d660fca76a1b5273927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_f674963e3e991d37b35608047bdd706b570b055a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60bb8d8d1e31dbe29c8bff48e4c2364bc59c3251">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e5dfde10f76956e64aae00d6e85ed2de55ced44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_9b3d3ac9850436b5b99e0aafe81392080c8c25cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9e896b229246b2c8d2ca6269b601933ea2e4e8ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_ff27479917a16e3615012a3d1f7187ddba125704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5e01be4678ff8c93d4f4aeec01c3e139c5b01931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1fb03565a67cc1055623153e1e1551c547b9cc62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_38f3434962ef2ab48a4e73193f02f1fa04692aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_1e3e95aa8a48038d4f0360da5e4e91d3a42df5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.6.0_3698049542cfcf19a91212acb31326f3707b644e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="abf4e5634dde8a19ed32681463a3c0bfb6163a64">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_03e084bba8ca5b0126c7474ab5cd69bbfd97300a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_3938be763ac6cb98b04bca0f71ae422aea8a0ea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_c81d778552fe5b61795360be2ad6f0616b80dc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_aa23272465888bcbb73663e84c8e77bfcada0502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_bc5ad6550aa9d56b44b0490bf2b05620fbb668a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_05be739a8dffe492f25a304da2dcfe4095d39e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_802a2363cdeca1cfbaf5efe4426a751eeb6e4f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_d19d41eb7c3462e511ceb9217d3a9fdbb4adde78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d9a9df26a4754b1bf341a0da47bcf9d389181731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_2bb7bc818484e927ca168027b7c26b411c157b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-0.6.0_8f0e26dabe8d66e37ebefce6005db5c145b17320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_da6be8e72a20f362a8587b9e58423657823cf164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_31621614497fb05c0ec48dcd74445b87a10ab0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.4.0_83035311782f3117b1295f7ac508f78741e6231d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/apprenti/AndroidStudioProjects/WOS final/toulouse-0916-wildoldschool-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_cc35b82bf1ece7df0b6980c82efe620a013b500b/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/foret"
+    android:weightSum="1">
+
+    <TextView
+        android:text=""
+        android:visibility="gone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#E0001A"
+        android:textColor="#FFFFFF"
+        android:id="@+id/error" />
+
+    <ImageView
+        android:alpha="0.8"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="313px"
+        android:background="@drawable/deeer"
+        android:layout_gravity="center"
+        android:layout_width="300px" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_marginTop="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email"
+            android:textColorHint="@android:color/white"
+            android:inputType="textEmailAddress"
+            android:textColor="@android:color/white"
+            android:textAlignment="center"/>
+
+
+        <EditText
+            android:textAlignment="center"
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusableInTouchMode="true"
+            android:hint="@string/hint_password"
+            android:textColorHint="@android:color/white"
+            android:imeActionId="@+id/login"
+            android:inputType="textPassword"
+            android:textColor="@android:color/white" />
+
+    <EditText
+        android:textAlignment="center"
+        android:id="@+id/pseudo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:hint="Pseudo"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:inputType="textPersonName"/>
+
+
+
+        <Button
+            android:id="@+id/sign_up_button"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/transparent"
+            android:text="Créer profil"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+    <Button
+
+        android:id="@+id/retourbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="Déja enregistré? Connecte toi!"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="15dp"
+        android:layout_below="@id/connect" />
+    </LinearLayout>
+
+

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#1EA798"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <TextView
+        android:text=""
+        android:visibility="gone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#E0001A"
+        android:textColor="#FFFFFF"
+        android:id="@+id/error" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Mon Profils"
+            android:textSize="30dp"
+            android:gravity="center"/>
+
+
+      <ImageView
+          android:layout_marginTop="15dp"
+          android:layout_gravity="center"
+          android:layout_width="150dp"
+          android:layout_height="150dp"
+          android:background="@drawable/icon_user"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Pseudo :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtPseudo"
+                android:text="Chantome"
+                android:textSize="17dp"
+                android:gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:gravity="center_vertical"
+                android:id="@+id/modifPseudo"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Nom :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtLastname"
+                android:text="Chantome"
+                android:textSize="20dp"
+                android:gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifLastname"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginBottom="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Prénom :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtFirstname"
+                android:text="Benjamin"
+                android:textSize="20dp"
+                android:gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifFirstname"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="15dp"
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Genre :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtGenre"
+                android:text="Homme"
+                android:textSize="17dp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifGenre"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="25dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:id="@+id/txtBirthday"
+                android:textSize="17dp"
+                android:text="Date de naissance :"
+                android:gravity="center_vertical"/>
+
+            <ImageButton
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifBirthday"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/calendrier"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:id="@+id/date_label"
+                android:textSize="17dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date courante :"
+                 />
+
+            <TextView
+                android:id="@+id/text_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.8"
+                android:textSize="17dp"
+                android:text="Descriptif :"
+                android:gravity="center_vertical"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifDescriptif"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:id="@+id/txtDescriptif"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Ecole :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtSchool"
+                android:text="Wild Code School Toulouse"
+                android:textSize="18dp"
+                android:gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifSchool"
+                android:layout_width="25dp"
+                android:layout_height="30dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:textSize="17dp"
+                android:text="Formation :"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtFormation"
+                android:text="Android"
+                android:textSize="17dp"
+                android:gravity="center_vertical"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifFormation"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp">
+
+            <TextView
+                android:gravity="center_vertical"
+                android:text="Mes catégories favorites :"
+                android:textSize="17dp"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.8"/>
+
+            <ImageButton
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:contentDescription="bouton"
+                android:id="@+id/modifFavories"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/icon"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtFavories"
+            android:text="Android, PHP, Ruby"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

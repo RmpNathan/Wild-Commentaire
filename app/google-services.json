@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "105363612918",
+    "firebase_url": "https://wild-old-school.firebaseio.com",
+    "project_id": "wild-old-school",
+    "storage_bucket": "wild-old-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105363612918:android:138461def67e63fd",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.chantome.wildoldschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105363612918-bgqldk0j18hl4vnieis56qfbcrahvrd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMXIwEnkHgsUrvGDD7VicH1Vtrl8gjoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105363612918:android:431b2d37633b14cf",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.chantome.wildoldschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105363612918-bgqldk0j18hl4vnieis56qfbcrahvrd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMXIwEnkHgsUrvGDD7VicH1Vtrl8gjoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
